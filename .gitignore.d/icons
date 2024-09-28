@@ -1,0 +1,7 @@
+*
+# !/.local
+# !/.local/share
+# !/.local/share/custom-app-icons
+# !/.local/share/custom-app-icons/Brave Browser.icns
+# !/.local/share/custom-app-icons/Visual Studio Code.icns
+!/.gitignore.d/icons
